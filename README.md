@@ -1,7 +1,8 @@
 ```md
 # Hello, I'm Dustin 👋
 
-I'm a security researcher focused on application security, AI security, offensive security, and secure software development. I build tools, vulnerable test cases, and automation that help identify, explain, and remediate real-world security issues.
+I'm a security researcher focused on application security, AI security, offensive security, and secure software development.
+I build tools, vulnerable test cases, and automation that help identify, explain, and remediate real-world security issues.
 
 ## 🔐 What I Work On
 
@@ -55,7 +56,4 @@ I have written multiple articles and technical guides around:
 
 - GitHub: [@ds33791](https://github.com/dustinsilveri)
 - Linkedin: [https://www.linkedin.com/in/dustin-silveri/]
----
-
-> I like building practical security tools that make vulnerabilities easier to find, understand, and fix.
 ```
