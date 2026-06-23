@@ -28,11 +28,11 @@ and remediation guidance
 
 ## 🛠️ Tools & Technologies
 
-**Languages:** Python, Go, Rust, C#/.NET, PHP  
-**Security:** Burp Suite, Sliver, My own stuff...
-**Cloud & DevOps:** Gitlab, GitHub, Azure DevOps, Docker, Linux, Terraform  
-**AI/LLMs:** Ollama, OpenWebUI, RAG, local model workflows  
-**Platforms:** Linux, Windows, KVM
+- Languages: Python, Go, Rust, C#/.NET, PHP  
+- Security: Burp Suite, Sliver, My own stuff...
+- Cloud & DevOps: Gitlab, GitHub, Azure DevOps, Docker, Linux, Terraform  
+- AI/LLMs: Ollama, OpenWebUI, RAG, local model workflows  
+- Platforms: Linux, Windows, KVM
 
 ## 🚧 Current Projects
 
