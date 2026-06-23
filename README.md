@@ -1,4 +1,3 @@
-```md
 # Hello, I'm Dustin 👋
 
 I'm a security researcher focused on application security, AI security, offensive security, and secure software development.
@@ -56,4 +55,3 @@ I have written multiple articles and technical guides around:
 
 - GitHub: [@ds33791](https://github.com/dustinsilveri)
 - Linkedin: [https://www.linkedin.com/in/dustin-silveri/]
-```
